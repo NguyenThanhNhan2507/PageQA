@@ -1,0 +1,15 @@
+.home{
+    flex: 4;
+}
+
+.homeWidgets{
+    display: flex;
+    margin: 20px;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    display: inline-block;
+    position: relative;
+}
